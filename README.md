@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedsaleh1998
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning fullstack react , node js , flask .
+- 🌱 I’m currently learning fullstack react , node js , flask ,Django.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me am304844@gmail.com or phone : 01284824533
 
